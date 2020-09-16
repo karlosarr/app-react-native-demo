@@ -22,7 +22,7 @@
     "appcenter-analytics": "3.0.0",
     "appcenter-crashes": "3.0.0",
     "expo": "~36.0.0",
-    "expo-asset": "~8.0.0",
+    "expo-asset": "~8.1.7",
     "expo-constants": "~8.0.0",
     "expo-font": "~8.0.0",
     "expo-web-browser": "~8.0.0",
